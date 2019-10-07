@@ -1,0 +1,1 @@
+{GK_APP_VERSION}
